@@ -42,6 +42,18 @@ G40,high,yes,excellent,yes
 7) Explorer shows many options. In that click on ‘open file’ and select the arff file
 8) Click on edit button which shows buying table on weka.
 ### OUTPUT:
+### Training Data Set -> Buying Table
+
+
+![image](https://github.com/karthikeyan-R16/WDM_EXP2/assets/119421232/fc205782-b3af-4600-ae91-932829e22f11)
+
+### Training Data Set -> Banking Table
+
+![image](https://github.com/karthikeyan-R16/WDM_EXP2/assets/119421232/63ed0439-4a9a-467a-936b-02396981f380)
+
+### Training Data Set -> Employee Table
+
+![image](https://github.com/karthikeyan-R16/WDM_EXP2/assets/119421232/4d8c89bf-a36d-4be7-9211-abefb9c59aad)
 
 
 ### Procedure for Association Rules:
@@ -53,5 +65,19 @@ G40,high,yes,excellent,yes
 6) Click on Start button and output will be displayed on the right side of the window.
 
 ### OUTPUT:
+### Buying Table
 
-### RESULT: 
+![image](https://github.com/karthikeyan-R16/WDM_EXP2/assets/119421232/89085f9c-8581-4802-983b-d6a479d481f9)
+
+### Banking table 
+
+![image](https://github.com/karthikeyan-R16/WDM_EXP2/assets/119421232/3eb4c23e-22e9-4bdc-8742-9103bc46fee3)
+
+### Employee table 
+
+![image](https://github.com/karthikeyan-R16/WDM_EXP2/assets/119421232/8fbad4d3-e2f3-4ac8-974b-81beb4421add)
+
+
+# RESULT: 
+Thus this program has been successfully executed.
+
